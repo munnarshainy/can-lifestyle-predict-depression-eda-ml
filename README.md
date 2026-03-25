@@ -1,4 +1,4 @@
-# Can Lifestyle Factors Predict Depression
+# Can Lifestyle Factors Predict Depression?
 
 An exploratory data analysis and machine learning project investigating whether 
 lifestyle factors can predict self-perceived depression severity in students.
