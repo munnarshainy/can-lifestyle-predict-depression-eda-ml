@@ -16,7 +16,7 @@ with suicidal ideation?
 ## Project Structure
 ```
 ├── data/
-├── images/           # All saved figures
+├── images/         
 ├── notebooks/
 │   └── can-lifestyle-predict-depression.ipynb
 
