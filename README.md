@@ -1,12 +1,9 @@
 # Can Lifestyle Factors Predict Depression?
 
-An exploratory data analysis and machine learning project investigating whether 
-lifestyle factors can predict self-perceived depression severity in students.
+An exploratory data analysis and machine learning project investigating whether lifestyle factors can predict self-perceived depression severity in students.
 
 ## Research Question
-Can dietary habits, sleep duration, and genetic predisposition distinguish between 
-students with no depression, depression without suicidal ideation, and depression 
-with suicidal ideation?
+Can dietary habits, sleep duration, and genetic predisposition distinguish between students with no depression, depression without suicidal ideation, and depression  with suicidal ideation?
 
 ## Dataset
 - **Source:** [Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
@@ -23,7 +20,7 @@ with suicidal ideation?
 ```
 
 ## Key Findings
-- Strong comorbidity between depression and suicidal ideation (Cramér's V = 0.546)
+- Strong comorbidity between self-perceived depression and history of suicidal thoughts (Cramér's V = 0.546)
 - Dietary habits was the strongest lifestyle predictor (RF importance = 0.74)
 - Lifestyle factors alone are insufficient to predict depressive severity (RF accuracy = 41%)
 - Suicidal ideation cannot be inferred from lifestyle signals alone
