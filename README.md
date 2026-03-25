@@ -20,7 +20,7 @@ Can dietary habits, sleep duration, and genetic predisposition distinguish betwe
 ```
 
 ## Key Findings
-- Strong comorbidity between self-perceived depression and history of suicidal thoughts (Cramér's V = 0.546)
+- Strong comorbidity between self-perceived depression and suicidal thought/s (Cramér's V = 0.546)
 - Dietary habits was the strongest lifestyle predictor (RF importance = 0.74)
 - Lifestyle factors alone are insufficient to predict depressive severity (RF accuracy = 41%)
 - Suicidal ideation cannot be inferred from lifestyle signals alone
