@@ -1,6 +1,6 @@
 # Can Lifestyle Factors Predict Depression?
 
-An exploratory data analysis and machine learning project investigating whether lifestyle factors can predict self-perceived depression severity in students.
+An exploratory data analysis and machine learning project investigating whether lifestyle factors can predict self-perceived depression severity in Indian students.
 
 ## Research Question
 Can dietary habits, sleep duration, and genetic predisposition distinguish between students with no depression, depression without suicidal ideation, and depression  with suicidal ideation?
